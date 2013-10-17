@@ -1,0 +1,11 @@
+D:\VS05Project\project\ConnPostSQL\ConnPostSQL\bin\Debug\ConnPostSQL.exe
+D:\VS05Project\project\ConnPostSQL\ConnPostSQL\bin\Debug\ConnPostSQL.pdb
+D:\VS05Project\project\ConnPostSQL\ConnPostSQL\bin\Debug\Mono.Security.dll
+D:\VS05Project\project\ConnPostSQL\ConnPostSQL\bin\Debug\Npgsql.dll
+D:\VS05Project\project\ConnPostSQL\ConnPostSQL\obj\Debug\ResolveAssemblyReference.cache
+D:\VS05Project\project\ConnPostSQL\ConnPostSQL\obj\Debug\ConnPostSQL.Form1.resources
+D:\VS05Project\project\ConnPostSQL\ConnPostSQL\obj\Debug\ConnPostSQL.Properties.Resources.resources
+D:\VS05Project\project\ConnPostSQL\ConnPostSQL\obj\Debug\ConnPostSQL.csproj.GenerateResource.Cache
+D:\VS05Project\project\ConnPostSQL\ConnPostSQL\obj\Debug\ConnPostSQL.exe.licenses
+D:\VS05Project\project\ConnPostSQL\ConnPostSQL\obj\Debug\ConnPostSQL.exe
+D:\VS05Project\project\ConnPostSQL\ConnPostSQL\obj\Debug\ConnPostSQL.pdb

@@ -1,0 +1,2 @@
+C:\git_repository\ConnPostSQL\ConnPostSQL\obj\Debug\ConnPostSQL.exe
+C:\git_repository\ConnPostSQL\ConnPostSQL\obj\Debug\ConnPostSQL.pdb
